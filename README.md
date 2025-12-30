@@ -42,7 +42,7 @@ All models were trained on the same dataset for fair comparison.
 
 ## 📈 Model Accuracy Scores
 
-```text
+
 Logistic Regression  : 0.8333
 Support Vector Machine (SVM) : 0.8810
 Random Forest        : 0.8571
