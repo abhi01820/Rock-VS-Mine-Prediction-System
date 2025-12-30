@@ -1,5 +1,7 @@
 # 🪨 Rock-VS-Mine-Prediction-System
 
+![model_accuracy_comparison](model_accuracy_comparison.jpg)
+
 This project focuses on classifying **sonar signals** to distinguish between **Rocks (R)** and **Mines (M)** using machine learning models.  
 It demonstrates model comparison, evaluation, and visualization using Python and Scikit-learn.
 
